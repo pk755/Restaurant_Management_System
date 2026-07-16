@@ -1,4 +1,0 @@
-# No external dependencies required.
-# This project uses only Python's standard library modules:
-# json, os, datetime, uuid
-# Python 3.10+ recommended
