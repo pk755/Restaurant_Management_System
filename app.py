@@ -9,7 +9,7 @@ if "menu_list" not in st.session_state:
 
 menu_list = st.session_state.menu_list
 
-st.title("BOXNOX Restaurant")
+st.title("BOXNCOX Restaurant")
 tab_menu, tab_order, tab_admin, tab_billing = st.tabs(["Menu","New Order","Admin","Billing"])
 
 #menu tab
