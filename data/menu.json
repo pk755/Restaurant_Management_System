@@ -1,0 +1,26 @@
+{
+    "1": {
+        "name": "Burger",
+        "category": "main",
+        "price": 120,
+        "stock_quantity": 53
+    },
+    "2": {
+        "name": "Pizza",
+        "category": "main",
+        "price": 250,
+        "stock_quantity": 44
+    },
+    "3": {
+        "name": "Coffee",
+        "category": "beverage",
+        "price": 80,
+        "stock_quantity": 35
+    },
+    "4": {
+        "name": "Pasta",
+        "category": "main",
+        "price": 180,
+        "stock_quantity": 20
+    }
+}

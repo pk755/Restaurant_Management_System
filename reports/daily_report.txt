@@ -1,0 +1,12 @@
+===================================
+       DAILY SALES REPORT
+===================================
+Generated on : 2026-07-14 20:17:31
+Total Orders : 2
+Total Revenue: $1380.00
+-----------------------------------
+Best Selling Items:
+  1. Burger - 6 sold
+  2. Coffee - 2 sold
+  3. Pizza - 2 sold
+===================================

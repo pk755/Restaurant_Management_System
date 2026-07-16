@@ -1,0 +1,122 @@
+[
+    {
+        "order_id": "ORD20260714201225",
+        "customer_name": "priya",
+        "items": [
+            {
+                "name": "Burger",
+                "price": 120,
+                "quantity": 2
+            },
+            {
+                "name": "Burger",
+                "price": 120,
+                "quantity": 2
+            },
+            {
+                "name": "Coffee",
+                "price": 80,
+                "quantity": 1
+            },
+            {
+                "name": "Pizza",
+                "price": 250,
+                "quantity": 1
+            }
+        ],
+        "timestamp": "2026-07-14 20:12:25",
+        "status": "pending",
+        "total_amount": 810
+    },
+    {
+        "order_id": "ORD20260714201709",
+        "customer_name": "priya",
+        "items": [
+            {
+                "name": "Burger",
+                "price": 120,
+                "quantity": 2
+            },
+            {
+                "name": "Pizza",
+                "price": 250,
+                "quantity": 1
+            },
+            {
+                "name": "Coffee",
+                "price": 80,
+                "quantity": 1
+            }
+        ],
+        "timestamp": "2026-07-14 20:17:09",
+        "status": "pending",
+        "total_amount": 570
+    },
+    {
+        "order_id": "ORD20260715172854",
+        "customer_name": "Basit",
+        "items": [
+            {
+                "name": "Burger",
+                "price": 120,
+                "quantity": 1
+            },
+            {
+                "name": "Coffee",
+                "price": 80,
+                "quantity": 3
+            }
+        ],
+        "timestamp": "2026-07-15 17:28:54",
+        "status": "pending",
+        "total_amount": 360
+    },
+    {
+        "order_id": "ORD20260715174721",
+        "customer_name": "chay",
+        "items": [
+            {
+                "name": "Burger",
+                "price": 120,
+                "quantity": 1
+            },
+            {
+                "name": "Pizza",
+                "price": 250,
+                "quantity": 2
+            },
+            {
+                "name": "Coffee",
+                "price": 80,
+                "quantity": 1
+            }
+        ],
+        "timestamp": "2026-07-15 17:47:21",
+        "status": "pending",
+        "total_amount": 700
+    },
+    {
+        "order_id": "ORD20260716121008",
+        "customer_name": "Rahul",
+        "items": [
+            {
+                "name": "Burger",
+                "price": 120,
+                "quantity": 1
+            },
+            {
+                "name": "Pizza",
+                "price": 250,
+                "quantity": 2
+            },
+            {
+                "name": "Coffee",
+                "price": 80,
+                "quantity": 1
+            }
+        ],
+        "timestamp": "2026-07-16 12:10:08",
+        "status": "pending",
+        "total_amount": 700
+    }
+]
