@@ -2,7 +2,7 @@ import streamlit as st
 from services import menu_service, order_service, billing_service,report_service
 from utils import validator
 
-st.set_page_config(page_title="Smart Restaurant", layout = "wide")
+st.set_page_config(page_title="BOXNCOX Restaurant", layout = "wide")
 
 if "menu_list" not in st.session_state:
     st.session_state.menu_list = menu_service.load_menu()
